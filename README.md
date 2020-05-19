@@ -1,6 +1,8 @@
-# Weather Application
+# Darwin County Animal Shelter
 
 This is a landing page website for an Animal Shelter
+
+![Image description](/images/project_thumbnail.png)
 
 ## Built With
 
